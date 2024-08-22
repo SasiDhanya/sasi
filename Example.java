@@ -8,6 +8,7 @@ public class Example {
 		System.out.println("Hello my first Maven Project");
  		int a,b,c;
 		float x,y,z;
+		x=10/0;
 		Frame ib=new Frame("Hai");
 		ib.setVisible(true);
 		ib.setLayout(null);
